@@ -9,4 +9,6 @@ for liczba in range(100,471)
         
 print (numbers83)
 
+print (numbers83)
+
 
