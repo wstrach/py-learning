@@ -8,5 +8,11 @@ for liczba in range(100,471)
 ]        
         
 print (numbers83)
+<<<<<<< HEAD
  
+=======
+
+print (numbers83)
+
+>>>>>>> dev-R001-2020
 
